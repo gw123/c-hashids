@@ -1,0 +1,9 @@
+cmake-build-debug
+CMakeFiles
+dist
+cmake_install.cmake
+CMakeCache.txt
+hashids_demo
+install_manifest.txt
+.idea
+Makefile
